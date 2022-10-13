@@ -1,0 +1,20 @@
+{
+  "name": "flashcardserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch --port=5000 db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeJay124/FlashCardServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeJay124/FlashCardServer/issues"
+  },
+  "homepage": "https://github.com/LeeJay124/FlashCardServer#readme"
+}
